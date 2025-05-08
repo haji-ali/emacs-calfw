@@ -38,6 +38,7 @@
 (require 'org-agenda)
 (require 'org-element)
 (require 'org-capture)
+(require 'cl-lib)
 (require 'google-maps nil t)
 
 (defgroup cfw-org nil
